@@ -1,4 +1,4 @@
-let body=document.body;
-body.addEventListener("mousemove",(e)=>{
-body.style.backgroundColor=`${e.offsetX},${e.offsetY},54`
-});
+
+document.body.addEventListener("mousemove",(e)=>{
+documnet=body.style.backgroundColor=rgb(`${e.offsetX},${e.offsetY},54`
+)});
